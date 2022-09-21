@@ -1,0 +1,33 @@
+header {
+    height:60px;
+    width:100%;
+    line-height: 60px;
+    background-color: darkolivegreen;
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: right;
+    position: relative;
+    z-index: 1;
+}
+
+body {
+    background-color: lightslategray;
+    border: solid darkolivegreen;
+}
+
+li {
+    text-decoration: none;
+    display:inline
+}
+section {
+    text-align: center;
+    font-size: medium;
+}
+form {
+    text-align: center;
+    padding:10px;
+}
+footer {
+    background-color: bisque;
+    text-align: center;
+}
